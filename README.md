@@ -4,8 +4,7 @@
 
 1. Binary Numbers
 2. Logic Gates
-3. Mathematical operations on binary Numbers (addition, subtraction, multiplication, division, etc...)
-4. Information storage
+3. Mathematical operations on binary Numbers (addition)
 
 ### Contribution
 
